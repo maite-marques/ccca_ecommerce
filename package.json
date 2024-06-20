@@ -1,7 +1,7 @@
 {
   "name": "ecommerce_ccca",
   "version": "1.0.0",
-  "description": "",
+  "description": "E-commerce to practice clean architecture",
   "main": "index.js",
   "scripts": {
     "test": "npx jest",
